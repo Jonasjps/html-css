@@ -5,7 +5,10 @@
 
  <a href="https://jonasjps.github.io/html-css/exercicios/ex001/index.html" >Executar o Exercicio 001</a>
 
-Veja tambem Meu mini-site, nomeado como (Projeto-Android)
+Veja Meus Prjetos:
 
  <a href="https://jonasjps.github.io/projeto-android/" >✔️ Projeto-Android</a>
+
+ <a href="https://jonasjps.github.io/Projeto-Cordel/" >✔️ Projeto-Cordel</a>
+
  
