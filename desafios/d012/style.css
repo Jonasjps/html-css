@@ -43,13 +43,15 @@ h1 {
     text-align: center;
     font-size: 10vh;
     padding-top: 50px;
+    
     margin-top: -0;
     margin-bottom: -0;
    
 }
 p{
     font-family: var(--fonte-paragrafo);
-    padding: 10px;
+    padding-bottom: 50px;
+
 }
 p.img01{
     background-color: rgba(0, 0, 0, 0.432);
