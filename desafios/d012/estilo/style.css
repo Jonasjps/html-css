@@ -79,6 +79,7 @@ section.imagem > p {
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.514);
     text-shadow: 1px 2px 0px black;
+    border-radius: 10px;
 }
 section#img01 {
 background-image: url('../imagens/background001.jpg');
