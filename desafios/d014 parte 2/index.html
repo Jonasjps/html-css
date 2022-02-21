@@ -13,6 +13,13 @@
         table{
             border-collapse: collapse;
         }
+        caption{
+            background-color: rgb(75, 75, 75);
+            color: white;
+            padding:8px;
+            font-weight: bold;
+            font-size: 1.3em;
+        }
         th, td {
             border: 1px solid black;
             padding: 8px;
@@ -32,6 +39,7 @@
 <body>
     <h1>Boletim Escolar</h1>
     <table>
+        <caption>Minhas Notas</caption>
         <thead>
 
         </thead>
@@ -74,7 +82,7 @@
                 <td class="centro">0.0</td>
             </tr>
             <tr  class="inverso">
-                <th scope="colgroup" colspan="4" class="esquerda">Média de Exatas</th>
+                <th scope="row" colspan="4" class="esquerda">Média de Exatas</th>
                 <td class="centro">0.0</td>
             </tr>
 
